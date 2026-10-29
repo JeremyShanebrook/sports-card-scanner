@@ -1,0 +1,970 @@
+year,manufacturer,product,subset,card_number,player,team,print_run,is_rookie,is_autograph,is_relic
+2025,Topps,2025 Topps Holiday Baseball,Base,H1,Shohei Ohtani,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H2,Evan Carter,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H3,Junior Caminero,Tampa Bay Rays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H4,Jacob Wilson,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H5,George Kirby,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H6,Drew Thorpe,Chicago White Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H7,Josh Jung,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H8,Ben Rice,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H9,Marcus Semien,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H10,Jasson Domínguez,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H11,Byron Buxton,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H12,Freddie Freeman,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H13,Brooks Lee,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H14,Anthony Santander,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H15,Matt Olson,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H16,Will Warren,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H17,Orelvis Martinez,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H18,Gunnar Henderson,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H19,Agustín Ramírez,Miami Marlins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H20,Yandy Díaz,Tampa Bay Rays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H21,William Contreras,Milwaukee Brewers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H22,Garrett Crochet,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H23,Roki Sasaki,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H24,Framber Valdez,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H25,Christian Yelich,Milwaukee Brewers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H26,Kyle Tucker,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H27,Ian Happ,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H28,Shane McClanahan,Tampa Bay Rays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H29,Giancarlo Stanton,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H30,Jackson Merrill,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H31,Justyn-Henry Malloy,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H32,Tyler Soderstrom,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H33,J.T. Realmuto,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H34,Pete Alonso,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H35,Marcelo Mayer,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H36,Ozzie Albies,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H37,Edgar Quero,Chicago White Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H38,Chandler Simpson,Tampa Bay Rays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H39,Dansby Swanson,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H40,Nick Kurtz,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H41,Pete Crow-Armstrong,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H42,Adael Amador,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H43,Ketel Marte,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H44,Yordan Alvarez,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H45,Bo Bichette,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H46,Dylan Crews,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H47,Nathan Eovaldi,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H48,Mason Miller,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H49,Triston Casas,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H50,Mike Trout,Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H51,Jack Flaherty,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H52,Mookie Betts,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H53,Grant McCray,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H54,Cal Raleigh,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H55,Nolan Schanuel,Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H56,Austin Wells,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H57,Leo Jiménez,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H58,Jordan Westburg,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H59,Yusei Kikuchi,Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H60,Drake Baldwin,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H61,Adolis García,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H62,Ronald Acuña Jr.,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H63,Cole Ragans,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H64,Alec Burleson,St. Louis Cardinals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H65,Xander Bogaerts,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H66,Vladimir Guerrero Jr.,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H67,Austin Hays,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H68,Zebby Matthews,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H69,Bryce Harper,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H70,Paul Skenes,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H71,Matt Strahm,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H72,Connor Norby,Miami Marlins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H73,Oneil Cruz,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H74,Tarik Skubal,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H75,Spencer Strider,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H76,Riley Greene,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H77,Dylan Cease,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H78,David Festa,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H79,Andrew McCutchen,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H80,Lawrence Butler,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H81,Kris Bryant,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H82,Angel Martínez,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H83,Logan Gilbert,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H84,Andrew Benintendi,Chicago White Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H85,Hayden Birdsong,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H86,Austin Riley,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H87,Wyatt Langford,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H88,Yu Darvish,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H89,Seiya Suzuki,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H90,Trea Turner,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H91,Manny Machado,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H92,Zac Veen,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H93,Geraldo Perdomo,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H94,James Wood,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H95,Shane Bieber,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H96,Emmanuel Clase,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H97,Elly De La Cruz,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H98,Chris Sale,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H99,Freddy Peralta,Milwaukee Brewers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H100,Bobby Witt Jr.,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H101,Brenton Doyle,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H102,Shea Langeliers,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H103,Kristian Campbell,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H104,Rhett Lowder,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H105,Dalton Rushing,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H106,Sean Burke,Chicago White Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H107,Michael Harris II,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H108,Will Wagner,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H109,Kevin Alcántara,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H110,Willy Adames,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H111,Mick Abel,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H112,Sal Frelick,Milwaukee Brewers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H113,Luisangel Acuña,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H114,Drew Romo,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H115,Nick Yorke,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H116,Salvador Perez,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H117,Luis Robert Jr.,Chicago White Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H118,Coby Mayo,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H119,Max Fried,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H120,Jhonkensy Noel,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H121,Cam Smith,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H122,Randy Arozarena,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H123,Shota Imanaga,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H124,Griffin Conine,Miami Marlins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H125,Corey Seager,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H126,Clayton Kershaw,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H127,Kerry Carpenter,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H128,Jung Hoo Lee,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H129,Heliot Ramos,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H130,Chase Dollander,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H131,Zac Gallen,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H132,Nolan Arenado,St. Louis Cardinals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H133,Caden Dana,Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H134,Taylor Ward,Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H135,Blake Snell,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H136,Jace Jung,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H137,Tomoyuki Sugano,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H138,Bryan Reynolds,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H139,Hunter Greene,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H140,Cade Horton,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H141,Jordan Lawlar,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H142,Mark Vientos,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H143,Steven Kwan,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H144,Sandy Alcantara,Miami Marlins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H145,Ezequiel Tovar,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H146,CJ Abrams,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H147,Brent Rooker,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H148,Kumar Rocker,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H149,Zach Neto,Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H150,Juan Soto,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H151,Luis Arraez,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H152,Luis Castillo,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H153,Josh Smith,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H154,Alex Bregman,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H155,Christian Walker,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H156,Ceddanne Rafaela,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H157,Colton Cowser,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H158,Corbin Carroll,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H159,Yoshinobu Yamamoto,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H160,Jackson Jobe,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H161,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H162,Zach Dezenzo,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H163,Jose Altuve,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H164,Teoscar Hernández,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H165,Tyler Locklear,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H166,Dustin Harris,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H167,Darren Baker,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H168,Rece Hinds,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H169,Moisés Ballesteros,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H170,Fernando Tatis Jr.,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H171,Francisco Lindor,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H172,Trey Sweeney,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H173,Matt Shaw,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H174,Hyeseong Kim,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H175,Carlos Correa,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H176,Jazz Chisholm Jr.,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H177,Matt Chapman,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H178,Ryan Helsley,St. Louis Cardinals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H179,Zack Wheeler,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H180,Jarren Duran,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H181,Adrian Del Castillo,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H182,Jackson Chourio,Milwaukee Brewers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H183,Nacho Alvarez Jr.,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H184,Ryan Bliss,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H185,Corbin Burnes,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H186,Julio Rodríguez,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H187,Thomas Saggese,St. Louis Cardinals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H188,Jackson Holliday,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H189,Luke Keaschall,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H190,Rafael Devers,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H191,Adley Rutschman,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H192,Spencer Steer,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H193,Masyn Winn,St. Louis Cardinals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H194,Royce Lewis,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H195,José Ramírez,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H196,Jacob deGrom,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H197,Walker Buehler,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H198,Vinnie Pasquantino,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H199,Spencer Schwellenbach,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base,H200,Shohei Ohtani,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H4,Jacob Wilson,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H13,Brooks Lee,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H23,Roki Sasaki,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H41,Pete Crow-Armstrong,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H46,Dylan Crews,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H50,Mike Trout,Los Angeles Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H52,Mookie Betts,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H70,Paul Skenes,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H74,Tarik Skubal,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H90,Trea Turner,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H97,Elly De La Cruz,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H100,Bobby Witt Jr.,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H113,Luisangel Acuña,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H118,Coby Mayo,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H121,Cam Smith,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H150,Juan Soto,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H154,Alex Bregman,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H158,Corbin Carroll,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H161,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H170,Fernando Tatis Jr.,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H182,Jackson Chourio,Milwaukee Brewers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H186,Julio Rodríguez,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H195,José Ramírez,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H199,Spencer Schwellenbach,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H200,Shohei Ohtani,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H1,Shohei Ohtani,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H3,Junior Caminero,Tampa Bay Rays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H12,Freddie Freeman,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H18,Gunnar Henderson,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H22,Garrett Crochet,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H30,Jackson Merrill,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H43,Ketel Marte,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H62,Ronald Acuña Jr.,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H66,Vladimir Guerrero Jr.,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H69,Bryce Harper,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H79,Andrew McCutchen,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H89,Seiya Suzuki,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H94,James Wood,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H101,Brenton Doyle,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H103,Kristian Campbell,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H104,Rhett Lowder,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H109,Kevin Alcántara,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H136,Jace Jung,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H159,Yoshinobu Yamamoto,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H160,Jackson Jobe,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H171,Francisco Lindor,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H174,Hyeseong Kim,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H176,Jazz Chisholm Jr.,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H177,Matt Chapman,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Short Prints,H196,Jacob deGrom,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H13,Brooks Lee,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H18,Gunnar Henderson,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H22,Garrett Crochet,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H23,Roki Sasaki,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H44,Yordan Alvarez,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H70,Paul Skenes,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H80,Lawrence Butler,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H87,Wyatt Langford,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H94,James Wood,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H98,Chris Sale,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H109,Kevin Alcántara,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H117,Luis Robert Jr.,Chicago White Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H119,Max Fried,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H125,Corey Seager,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H135,Blake Snell,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H160,Jackson Jobe,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H170,Fernando Tatis Jr.,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H176,Jazz Chisholm Jr.,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H179,Zack Wheeler,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H182,Jackson Chourio,Milwaukee Brewers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H185,Corbin Burnes,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H188,Jackson Holliday,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H190,Rafael Devers,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H195,José Ramírez,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Short Prints,H200,Shohei Ohtani,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H1,Shohei Ohtani,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H23,Roki Sasaki,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H26,Kyle Tucker,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H30,Jackson Merrill,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H50,Mike Trout,Los Angeles Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H60,Drake Baldwin,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H62,Ronald Acuña Jr.,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H69,Bryce Harper,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H70,Paul Skenes,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H74,Tarik Skubal,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H75,Spencer Strider,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H79,Andrew McCutchen,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H94,James Wood,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H97,Elly De La Cruz,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H100,Bobby Witt Jr.,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H103,Kristian Campbell,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H107,Michael Harris II,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H118,Coby Mayo,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H121,Cam Smith,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H150,Juan Soto,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H161,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H171,Francisco Lindor,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H174,Hyeseong Kim,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H182,Jackson Chourio,Milwaukee Brewers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base - Holiday Backs Super Short Prints,H186,Julio Rodríguez,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H1,Shohei Ohtani,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H2,Evan Carter,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H3,Junior Caminero,Tampa Bay Rays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H4,Jacob Wilson,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H5,George Kirby,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H6,Drew Thorpe,Chicago White Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H7,Josh Jung,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H8,Ben Rice,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H9,Marcus Semien,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H10,Jasson Domínguez,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H11,Byron Buxton,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H12,Freddie Freeman,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H13,Brooks Lee,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H14,Anthony Santander,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H15,Matt Olson,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H16,Will Warren,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H17,Orelvis Martinez,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H18,Gunnar Henderson,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H19,Agustín Ramírez,Miami Marlins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H20,Yandy Díaz,Tampa Bay Rays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H21,William Contreras,Milwaukee Brewers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H22,Garrett Crochet,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H23,Roki Sasaki,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H24,Framber Valdez,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H25,Christian Yelich,Milwaukee Brewers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H26,Kyle Tucker,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H27,Ian Happ,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H28,Shane McClanahan,Tampa Bay Rays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H29,Giancarlo Stanton,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H30,Jackson Merrill,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H31,Justyn-Henry Malloy,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H32,Tyler Soderstrom,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H33,J.T. Realmuto,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H34,Pete Alonso,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H35,Marcelo Mayer,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H36,Ozzie Albies,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H37,Edgar Quero,Chicago White Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H38,Chandler Simpson,Tampa Bay Rays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H39,Dansby Swanson,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H40,Nick Kurtz,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H41,Pete Crow-Armstrong,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H42,Adael Amador,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H43,Ketel Marte,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H44,Yordan Alvarez,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H45,Bo Bichette,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H46,Dylan Crews,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H47,Nathan Eovaldi,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H48,Mason Miller,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H49,Triston Casas,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H50,Mike Trout,Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H51,Jack Flaherty,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H52,Mookie Betts,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H53,Grant McCray,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H54,Cal Raleigh,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H55,Nolan Schanuel,Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H56,Austin Wells,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H57,Leo Jiménez,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H58,Jordan Westburg,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H59,Yusei Kikuchi,Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H60,Drake Baldwin,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H61,Adolis García,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H62,Ronald Acuña Jr.,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H63,Cole Ragans,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H64,Alec Burleson,St. Louis Cardinals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H65,Xander Bogaerts,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H66,Vladimir Guerrero Jr.,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H67,Austin Hays,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H68,Zebby Matthews,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H69,Bryce Harper,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H70,Paul Skenes,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H71,Matt Strahm,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H72,Connor Norby,Miami Marlins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H73,Oneil Cruz,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H74,Tarik Skubal,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H75,Spencer Strider,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H76,Riley Greene,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H77,Dylan Cease,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H78,David Festa,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H79,Andrew McCutchen,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H80,Lawrence Butler,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H81,Kris Bryant,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H82,Angel Martínez,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H83,Logan Gilbert,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H84,Andrew Benintendi,Chicago White Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H85,Hayden Birdsong,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H86,Austin Riley,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H87,Wyatt Langford,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H88,Yu Darvish,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H89,Seiya Suzuki,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H90,Trea Turner,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H91,Manny Machado,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H92,Zac Veen,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H93,Geraldo Perdomo,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H94,James Wood,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H95,Shane Bieber,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H96,Emmanuel Clase,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H97,Elly De La Cruz,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H98,Chris Sale,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H99,Freddy Peralta,Milwaukee Brewers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H100,Bobby Witt Jr.,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H101,Brenton Doyle,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H102,Shea Langeliers,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H103,Kristian Campbell,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H104,Rhett Lowder,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H105,Dalton Rushing,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H106,Sean Burke,Chicago White Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H107,Michael Harris II,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H108,Will Wagner,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H109,Kevin Alcántara,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H110,Willy Adames,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H111,Mick Abel,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H112,Sal Frelick,Milwaukee Brewers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H113,Luisangel Acuña,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H114,Drew Romo,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H115,Nick Yorke,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H116,Salvador Perez,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H117,Luis Robert Jr.,Chicago White Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H118,Coby Mayo,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H119,Max Fried,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H120,Jhonkensy Noel,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H121,Cam Smith,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H122,Randy Arozarena,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H123,Shota Imanaga,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H124,Griffin Conine,Miami Marlins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H125,Corey Seager,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H126,Clayton Kershaw,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H127,Kerry Carpenter,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H128,Jung Hoo Lee,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H129,Heliot Ramos,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H130,Chase Dollander,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H131,Zac Gallen,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H132,Nolan Arenado,St. Louis Cardinals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H133,Caden Dana,Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H134,Taylor Ward,Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H135,Blake Snell,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H136,Jace Jung,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H137,Tomoyuki Sugano,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H138,Bryan Reynolds,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H139,Hunter Greene,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H140,Cade Horton,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H141,Jordan Lawlar,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H142,Mark Vientos,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H143,Steven Kwan,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H144,Sandy Alcantara,Miami Marlins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H145,Ezequiel Tovar,Colorado Rockies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H146,CJ Abrams,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H147,Brent Rooker,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H148,Kumar Rocker,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H149,Zach Neto,Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H150,Juan Soto,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H151,Luis Arraez,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H152,Luis Castillo,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H153,Josh Smith,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H154,Alex Bregman,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H155,Christian Walker,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H156,Ceddanne Rafaela,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H157,Colton Cowser,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H158,Corbin Carroll,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H159,Yoshinobu Yamamoto,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H160,Jackson Jobe,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H161,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H162,Zach Dezenzo,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H163,Jose Altuve,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H164,Teoscar Hernández,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H165,Tyler Locklear,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H166,Dustin Harris,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H167,Darren Baker,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H168,Rece Hinds,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H169,Moisés Ballesteros,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H170,Fernando Tatis Jr.,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H171,Francisco Lindor,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H172,Trey Sweeney,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H173,Matt Shaw,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H174,Hyeseong Kim,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H175,Carlos Correa,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H176,Jazz Chisholm Jr.,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H177,Matt Chapman,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H178,Ryan Helsley,St. Louis Cardinals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H179,Zack Wheeler,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H180,Jarren Duran,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H181,Adrian Del Castillo,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H182,Jackson Chourio,Milwaukee Brewers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H183,Nacho Alvarez Jr.,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H184,Ryan Bliss,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H185,Corbin Burnes,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H186,Julio Rodríguez,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H187,Thomas Saggese,St. Louis Cardinals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H188,Jackson Holliday,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H189,Luke Keaschall,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H190,Rafael Devers,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H191,Adley Rutschman,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H192,Spencer Steer,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H193,Masyn Winn,St. Louis Cardinals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H194,Royce Lewis,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H195,José Ramírez,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H196,Jacob deGrom,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H197,Walker Buehler,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H198,Vinnie Pasquantino,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H199,Spencer Schwellenbach,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Base Chrome,H200,Shohei Ohtani,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-AG,Adolis García,Texas Rangers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-AR,Adley Rutschman,Baltimore Orioles,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-BR,Brent Rooker,Athletics,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-BW,Bobby Witt Jr.,Kansas City Royals,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-CM,Coby Mayo,Baltimore Orioles,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-CY,Christian Yelich,Milwaukee Brewers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-EC,Evan Carter,Texas Rangers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-ET,Ezequiel Tovar,Colorado Rockies,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-FF,Freddie Freeman,Los Angeles Dodgers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-FT,Fernando Tatis Jr.,San Diego Padres,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-GH,Gunnar Henderson,Baltimore Orioles,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-GW,Gavin Williams,Cleveland Guardians,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-HD,Henry Davis,Pittsburgh Pirates,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-JJU,Jace Jung,Detroit Tigers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-JL,Jordan Lawlar,Arizona Diamondbacks,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-JLE,Jung Hoo Lee,San Francisco Giants,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-JN,Jhonkensy Noel,Cleveland Guardians,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-JW,Jacob Wilson,Athletics,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-KB,Kris Bryant,Colorado Rockies,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-KC,Kristian Campbell,Boston Red Sox,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-KM,Keider Montero,Detroit Tigers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-KT,Kyle Tucker,Chicago Cubs,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-LA,Luis Arraez,San Diego Padres,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-LR,Luis Robert Jr.,Chicago White Sox,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-MC,Matt Chapman,San Francisco Giants,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-MM,Matt McLain,Cincinnati Reds,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-NC,Nestor Cortes,Milwaukee Brewers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-NE,Nathan Eovaldi,Texas Rangers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-NG,Nolan Gorman,St. Louis Cardinals,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-NM,Noelvi Marte,Cincinnati Reds,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-PS,Paul Skenes,Pittsburgh Pirates,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-RD,Rafael Devers,Boston Red Sox,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-RG,Riley Greene,Detroit Tigers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-SG,Sonny Gray,St. Louis Cardinals,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-TL,Tyler Locklear,Seattle Mariners,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-TS,Tyler Soderstrom,Athletics,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-TSA,Thomas Saggese,St. Louis Cardinals,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-VP,Vinnie Pasquantino,Kansas City Royals,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-ZG,Zac Gallen,Arizona Diamondbacks,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-ZGE,Zack Gelof,Athletics,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relic Autographs,HRA-ZN,Zach Neto,Los Angeles Angels,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Faux Relic Autographs,HFA-E,Elf,,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Faux Relic Autographs,HFA-ES,Ebenezer Scrooge,,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Faux Relic Autographs,HFA-GM,Gingerbread Man,,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Faux Relic Autographs,HFA-N,Nutcracker,,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Faux Relic Autographs,HFA-SC,Santa Claus,,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-AA,Adael Amador,Colorado Rockies,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-BL,Brooks Lee,Minnesota Twins,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-BR,Ben Rice,New York Yankees,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-BW,Bobby Witt Jr.,Kansas City Royals,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-CC,Corbin Carroll,Arizona Diamondbacks,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-CD,Caden Dana,Los Angeles Angels,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-CM,Coby Mayo,Baltimore Orioles,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-CN,Connor Norby,Miami Marlins,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-CS,Cam Smith,Houston Astros,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-DB,Drake Baldwin,Atlanta Braves,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-EC,Evan Carter,Texas Rangers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-ED,Elly De La Cruz,Cincinnati Reds,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-GM,Grant McCray,San Francisco Giants,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-HK,Hyeseong Kim,Los Angeles Dodgers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-HW,Hurston Waldrep,Atlanta Braves,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-JC,Jackson Chourio,Milwaukee Brewers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-JCA,Junior Caminero,Tampa Bay Rays,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-JD,Jasson Domínguez,New York Yankees,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-JH,Jackson Holliday,Baltimore Orioles,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-JJU,Jace Jung,Detroit Tigers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-JM,Justyn-Henry Malloy,Detroit Tigers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-JN,Jhonkensy Noel,Cleveland Guardians,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-JW,Jacob Wilson,Athletics,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-JWO,James Wood,Washington Nationals,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-KA,Kevin Alcántara,Chicago Cubs,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-KC,Kristian Campbell,Boston Red Sox,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-KR,Kumar Rocker,Texas Rangers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-LA,Luisangel Acuña,New York Mets,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-MC,Matt Chapman,San Francisco Giants,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-MM,Marcelo Mayer,Boston Red Sox,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-MS,Matt Shaw,Chicago Cubs,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-MT,Mike Trout,Los Angeles Angels,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-NK,Nick Kurtz,Athletics,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-OA,Ozzie Albies,Atlanta Braves,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-OM,Orelvis Martínez,Toronto Blue Jays,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-PS,Paul Skenes,Pittsburgh Pirates,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-RA,Ronald Acuña Jr.,Atlanta Braves,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-RAR,Randy Arozarena,Seattle Mariners,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-RB,Ryan Bliss,Seattle Mariners,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-RH,Rece Hinds,Cincinnati Reds,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-RL,Rhett Lowder,Cincinnati Reds,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-RS,Roki Sasaki,Los Angeles Dodgers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-SA,Sandy Alcantara,Miami Marlins,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-SS,Spencer Schwellenbach,Atlanta Braves,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-TS,Thomas Saggese,St. Louis Cardinals,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographed Relics,PAR-WL,Wyatt Langford,Texas Rangers,,0,1,1
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-AA,Adael Amador,Colorado Rockies,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-AR,Austin Riley,Atlanta Braves,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-AS,AJ Smith-Shawver,Atlanta Braves,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-AV,Anthony Volpe,New York Yankees,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-BL,Brooks Lee,Minnesota Twins,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-BR,Ben Rice,New York Yankees,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-BRO,Brent Rooker,Athletics,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-BS,Brady Singer,Cincinnati Reds,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-BW,Bobby Witt Jr.,Kansas City Royals,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-CD,Caden Dana,Los Angeles Angels,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-CH,Cade Horton,Chicago Cubs,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-CM,Coby Mayo,Baltimore Orioles,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-CN,Connor Norby,Miami Marlins,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-CSM,Cam Smith,Houston Astros,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-DC,Dylan Crews,Washington Nationals,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-DR,Dalton Rushing,Los Angeles Dodgers,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-GH,Gunnar Henderson,Baltimore Orioles,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-GM,Grant McCray,San Francisco Giants,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-HK,Hyeseong Kim,Los Angeles Dodgers,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-HW,Hurston Waldrep,Atlanta Braves,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-JD,Jasson Domínguez,New York Yankees,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-JJ,Jackson Jobe,Detroit Tigers,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-JJU,Jace Jung,Detroit Tigers,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-JL,Jordan Lawlar,Arizona Diamondbacks,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-JM,Justyn-Henry Malloy,Detroit Tigers,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-JN,Jhonkensy Noel,Cleveland Guardians,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-JW,Jacob Wilson,Athletics,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-JWO,James Wood,Washington Nationals,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-KA,Kevin Alcántara,Chicago Cubs,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-KR,Kumar Rocker,Texas Rangers,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-LA,Luisangel Acuña,New York Mets,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-LG,Luis García Jr.,Washington Nationals,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-LK,Luke Keaschall,Minnesota Twins,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-MB,Moisés Ballesteros,Chicago Cubs,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-MC,Matt Chapman,San Francisco Giants,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-MM,Marcelo Mayer,Boston Red Sox,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-MS,Matt Shaw,Chicago Cubs,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-NK,Nick Kurtz,Athletics,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-OM,Orelvis Martinez,Toronto Blue Jays,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-PC,Pete Crow-Armstrong,Chicago Cubs,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-RA,Ronald Acuña Jr.,Atlanta Braves,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-RB,Ryan Bliss,Seattle Mariners,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-RH,Rece Hinds,Cincinnati Reds,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-RL,Rhett Lowder,Cincinnati Reds,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-RS,Roki Sasaki,Los Angeles Dodgers,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-SM,Starling Marte,New York Mets,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-TS,Thomas Saggese,St. Louis Cardinals,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-VG,Vladimir Guerrero Jr.,Toronto Blue Jays,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-WL,Wyatt Langford,Texas Rangers,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Autographs,PA-YM,Yuki Matsui,San Diego Padres,,0,1,0
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-AB,Andrew Benintendi,Chicago White Sox,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-AD,Adrian Del Castillo,Arizona Diamondbacks,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-AG,Adolis García,Texas Rangers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-AJ,Aaron Judge,New York Yankees,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-AM,Andrew McCutchen,Pittsburgh Pirates,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-AR,Austin Riley,Atlanta Braves,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-AV,Anthony Volpe,New York Yankees,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-AW,Austin Wells,New York Yankees,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-BB,Byron Buxton,Minnesota Twins,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-BBI,Bo Bichette,Toronto Blue Jays,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-BH,Bryce Harper,Philadelphia Phillies,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-BL,Brooks Lee,Minnesota Twins,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-BW,Bobby Witt Jr.,Kansas City Royals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-CB,Cody Bellinger,New York Yankees,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-CC,Corbin Carroll,Arizona Diamondbacks,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-CCO,Carlos Correa,Minnesota Twins,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-CD,Caden Dana,Los Angeles Angels,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-CM,Coby Mayo,Baltimore Orioles,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-CME,Curtis Mead,Tampa Bay Rays,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-CN,Connor Norby,Miami Marlins,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-CR,Cal Raleigh,Seattle Mariners,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-CSM,Cam Smith,Houston Astros,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-CY,Christian Yelich,Milwaukee Brewers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-DC,Dylan Crews,Washington Nationals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-DR,Drew Romo,Colorado Rockies,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-DT,Drew Thorpe,Chicago White Sox,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-ED,Elly De La Cruz,Cincinnati Reds,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-FF,Freddie Freeman,Los Angeles Dodgers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-FL,Francisco Lindor,New York Mets,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-FT,Fernando Tatis Jr.,San Diego Padres,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-GC,Gerrit Cole,New York Yankees,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-GH,Gunnar Henderson,Baltimore Orioles,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-HB,Hayden Birdsong,San Francisco Giants,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-HK,Hyeseong Kim,Los Angeles Dodgers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JA,Jose Altuve,Houston Astros,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JC,Jackson Chourio,Milwaukee Brewers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JCA,Junior Caminero,Tampa Bay Rays,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JH,Jackson Holliday,Baltimore Orioles,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JJ,Jackson Jobe,Detroit Tigers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JJU,Jace Jung,Detroit Tigers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JL,Jordan Lawlar,Arizona Diamondbacks,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JLE,Jung Hoo Lee,San Francisco Giants,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JM,Jackson Merrill,San Diego Padres,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JN,Jhonkensy Noel,Cleveland Guardians,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JR,José Ramírez,Cleveland Guardians,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JRO,Julio Rodríguez,Seattle Mariners,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JS,Juan Soto,New York Mets,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JW,Jacob Wilson,Athletics,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-JWO,James Wood,Washington Nationals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-KA,Kevin Alcántara,Chicago Cubs,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-KB,Kris Bryant,Colorado Rockies,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-KC,Kristian Campbell,Boston Red Sox,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-KM,Ketel Marte,Arizona Diamondbacks,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-KR,Kumar Rocker,Texas Rangers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-KT,Kyle Tucker,Chicago Cubs,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-LA,Luisangel Acuña,New York Mets,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-LB,Lawrence Butler,Athletics,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-MB,Mookie Betts,Los Angeles Dodgers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-MG,MacKenzie Gore,Washington Nationals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-MM,Manny Machado,San Diego Padres,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-MO,Matt Olson,Atlanta Braves,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-MS,Matt Shaw,Chicago Cubs,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-MT,Mike Trout,Los Angeles Angels,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-MW,Masyn Winn,St. Louis Cardinals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-NA,Nolan Arenado,St. Louis Cardinals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-NAL,Nacho Alvarez Jr.,Atlanta Braves,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-NC,Nick Castellanos,Philadelphia Phillies,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-NK,Nick Kurtz,Athletics,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-NS,Nolan Schanuel,Los Angeles Angels,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-OA,Ozzie Albies,Atlanta Braves,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-OM,Orelvis Martinez,Toronto Blue Jays,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-PA,Pete Alonso,New York Mets,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-PC,Pete Crow-Armstrong,Chicago Cubs,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-PS,Paul Skenes,Pittsburgh Pirates,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-RA,Ronald Acuña Jr.,Atlanta Braves,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-RD,Rafael Devers,Boston Red Sox,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-RH,Rece Hinds,Cincinnati Reds,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-RL,Rhett Lowder,Cincinnati Reds,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-RS,Roki Sasaki,Los Angeles Dodgers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-SA,Sandy Alcantara,Miami Marlins,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-SF,Sal Frelick,Milwaukee Brewers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-SI,Shota Imanaga,Chicago Cubs,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-SK,Steven Kwan,Cleveland Guardians,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-SO,Shohei Ohtani,Los Angeles Dodgers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-SP,Salvador Perez,Kansas City Royals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-SS,Seiya Suzuki,Chicago Cubs,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-SSC,Spencer Schwellenbach,Atlanta Braves,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-TL,Tyler Locklear,Seattle Mariners,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-TS,Tarik Skubal,Detroit Tigers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-TSA,Thomas Saggese,St. Louis Cardinals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-TSO,Tyler Soderstrom,Athletics,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-TST,Trevor Story,Boston Red Sox,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-TSW,Trey Sweeney,Detroit Tigers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-TT,Trea Turner,Philadelphia Phillies,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-VG,Vladimir Guerrero Jr.,Toronto Blue Jays,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-WA,Willy Adames,San Francisco Giants,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-WC,William Contreras,Milwaukee Brewers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-WL,Wyatt Langford,Texas Rangers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-YA,Yordan Alvarez,Houston Astros,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics,PR-YD,Yu Darvish,San Diego Padres,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-AA,Ronald Acuña Jr.,Atlanta Braves,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-AA,Luisangel Acuña,New York Mets,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-AAL,Jose Altuve,Houston Astros,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-AAL,Yordan Alvarez,Houston Astros,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-CB,Byron Buxton,Minnesota Twins,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-CB,Carlos Correa,Minnesota Twins,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-FB,Mookie Betts,Los Angeles Dodgers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-FB,Freddie Freeman,Los Angeles Dodgers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-HC,Jackson Chourio,Milwaukee Brewers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-HC,Jackson Holliday,Baltimore Orioles,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-HR,Gunnar Henderson,Baltimore Orioles,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-HR,Adley Rutschman,Baltimore Orioles,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-JH,Bryce Harper,Philadelphia Phillies,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-JH,Aaron Judge,New York Yankees,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-JT,Mike Trout,Los Angeles Angels,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-JT,Aaron Judge,New York Yankees,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-LS,Juan Soto,New York Mets,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-LS,Francisco Lindor,New York Mets,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-RA,Julio Rodríguez,Seattle Mariners,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-RA,Randy Arozarena,Seattle Mariners,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-SC,Paul Skenes,Pittsburgh Pirates,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-SC,Dylan Crews,Washington Nationals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-TM,Manny Machado,San Diego Padres,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-TM,Fernando Tatis Jr.,San Diego Padres,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-WB,Lawrence Butler,Athletics,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-WB,Jacob Wilson,Athletics,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-WC,James Wood,Washington Nationals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-WC,Dylan Crews,Washington Nationals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-WP,Bobby Witt Jr.,Kansas City Royals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-WP,Salvador Perez,Kansas City Royals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-YS,Yoshinobu Yamamoto,Los Angeles Dodgers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Player Relics - Dual,DPR-YS,Roki Sasaki,Los Angeles Dodgers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-AG,Adolis García,Texas Rangers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-AR,Adley Rutschman,Baltimore Orioles,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-BR,Brent Rooker,Athletics,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-BW,Bobby Witt Jr.,Kansas City Royals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-CC,Corbin Carroll,Arizona Diamondbacks,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-CM,Coby Mayo,Baltimore Orioles,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-CR,Cole Ragans,Kansas City Royals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-CY,Christian Yelich,Milwaukee Brewers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-EC,Evan Carter,Texas Rangers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-ET,Ezequiel Tovar,Colorado Rockies,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-FF,Freddie Freeman,Los Angeles Dodgers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-FT,Fernando Tatis Jr.,San Diego Padres,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-GH,Gunnar Henderson,Baltimore Orioles,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-JJ,Jackson Jobe,Detroit Tigers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-JJU,Jace Jung,Detroit Tigers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-JL,Jordan Lawlar,Arizona Diamondbacks,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-JLE,Jung Hoo Lee,San Francisco Giants,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-JM,Jackson Merrill,San Diego Padres,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-JN,Jhonkensy Noel,Cleveland Guardians,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-JW,Jacob Wilson,Athletics,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-Jd,Jacob deGrom,Texas Rangers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-KB,Kris Bryant,Colorado Rockies,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-KC,Kristian Campbell,Boston Red Sox,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-KH,Ke'Bryan Hayes,Pittsburgh Pirates,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-KM,Ketel Marte,Arizona Diamondbacks,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-KT,Kyle Tucker,Chicago Cubs,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-LA,Luis Arraez,San Diego Padres,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-LR,Luis Robert Jr.,Chicago White Sox,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-MC,Matt Chapman,San Francisco Giants,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-MM,Manny Machado,San Diego Padres,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-MMC,Matt McLain,Cincinnati Reds,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-MW,Masyn Winn,St. Louis Cardinals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-NE,Nathan Eovaldi,Texas Rangers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-NG,Nolan Gorman,St. Louis Cardinals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-PC,Pete Crow-Armstrong,Chicago Cubs,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-PS,Paul Skenes,Pittsburgh Pirates,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-RA,Randy Arozarena,Seattle Mariners,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-RD,Rafael Devers,Boston Red Sox,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-RG,Riley Greene,Detroit Tigers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-SF,Sal Frelick,Milwaukee Brewers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-SI,Shota Imanaga,Chicago Cubs,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-SP,Salvador Perez,Kansas City Royals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-SS,Seiya Suzuki,Chicago Cubs,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-TS,Tarik Skubal,Detroit Tigers,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-TSA,Thomas Saggese,St. Louis Cardinals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-TSO,Tyler Soderstrom,Athletics,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-VP,Vinnie Pasquantino,Kansas City Royals,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-WA,Willy Adames,San Francisco Giants,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-YK,Yusei Kikuchi,Los Angeles Angels,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Relics,HR-ZG,Zac Gallen,Arizona Diamondbacks,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Faux Relics,HFR-E,Elf,,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Faux Relics,HFR-ES,Ebenezer Scrooge,,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Faux Relics,HFR-GM,Gingerbread Man,,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Faux Relics,HFR-N,Nutcracker,,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,Holiday Faux Relics,HFR-SC,Santa Claus,,,0,0,1
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-02,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-04,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-09,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-16,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-18,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-20,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-22,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-25,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-51,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-54,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-57,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-60,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-63,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-66,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-68,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-71,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-73,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-76,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-78,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-80,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-84,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-88,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-91,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-94,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,The Santa Archives,TSA-97,Santa Claus,,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-1,Bobby Witt Jr.,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-2,Bobby Witt Jr.,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-3,Bobby Witt Jr.,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-4,Bobby Witt Jr.,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-5,Bobby Witt Jr.,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-6,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-7,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-8,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-9,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-10,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-11,Paul Skenes,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-12,Paul Skenes,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-13,Paul Skenes,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-14,Paul Skenes,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-15,Paul Skenes,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-16,Dylan Crews,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-17,Dylan Crews,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-18,Dylan Crews,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-19,Dylan Crews,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-20,Dylan Crews,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-21,Roki Sasaki,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-22,Roki Sasaki,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-23,Roki Sasaki,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-24,Roki Sasaki,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Hidden Elf,HE-25,Roki Sasaki,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-1,Shohei Ohtani,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-2,Shohei Ohtani,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-3,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-4,Bobby Witt Jr.,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-5,Luis Arraez,San Diego Padres,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-6,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-7,Elly De La Cruz,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-8,Matt Chapman,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-9,Corbin Carroll,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-10,Kyle Schwarber,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-11,Paul Skenes,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-12,Chris Sale,Atlanta Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-13,Ryan Helsley,St. Louis Cardinals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-14,Tarik Skubal,Detroit Tigers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-15,Emmanuel Clase,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-16,Gunnar Henderson,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-17,Logan Gilbert,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-18,Giancarlo Stanton,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-19,Oneil Cruz,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-20,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-21,Bobby Witt Jr.,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-22,Tyler Rogers,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-23,Vladimir Guerrero Jr.,Toronto Blue Jays,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-24,Jarren Duran,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Making The Nice List,MNL-25,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-1,Roki Sasaki,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-2,Hyeseong Kim,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-3,Luisangel Acuña,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-4,Kumar Rocker,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-5,James Wood,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-6,Coby Mayo,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-7,Jacob Wilson,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-8,Dylan Crews,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-9,Matt Shaw,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-10,Shohei Ohtani,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-11,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-12,Bobby Witt Jr.,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-13,Ivan Rodriguez,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-14,Justin Verlander,San Francisco Giants,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-15,Wade Boggs,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-16,Ernie Banks,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-17,Randy Johnson,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-18,Harmon Killebrew,Minnesota Twins,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-19,Joe Morgan,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-20,José Ramírez,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-21,Freddie Freeman,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-22,Juan Soto,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-23,Mike Trout,Los Angeles Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-24,Hank Aaron,Milwaukee Braves,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Evergreen,E-25,Mike Piazza,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-1,Roki Sasaki,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-2,Hyeseong Kim,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-3,Luisangel Acuña,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-4,Kumar Rocker,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-5,James Wood,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-6,Coby Mayo,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-7,Jacob Wilson,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-8,Dylan Crews,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-9,Matt Shaw,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-10,Gunnar Henderson,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-11,Juan Soto,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-12,Pete Alonso,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-13,Babe Ruth,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-14,Ted Williams,Boston Red Sox,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-15,Ken Griffey Jr.,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-16,Kyle Tucker,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-17,Yordan Alvarez,Houston Astros,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-18,José Ramírez,Cleveland Guardians,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-19,Ketel Marte,Arizona Diamondbacks,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Oversized Die-Cut Ornaments,OO-20,Trea Turner,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-1,Roki Sasaki,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-2,Hyeseong Kim,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-3,Luisangel Acuña,New York Mets,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-4,Kumar Rocker,Texas Rangers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-5,James Wood,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-6,Coby Mayo,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-7,Jacob Wilson,Athletics,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-8,Dylan Crews,Washington Nationals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-9,Matt Shaw,Chicago Cubs,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-10,Shohei Ohtani,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-11,Mookie Betts,Los Angeles Dodgers,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-12,Aaron Judge,New York Yankees,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-13,Bryce Harper,Philadelphia Phillies,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-14,Paul Skenes,Pittsburgh Pirates,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-15,Mike Trout,Los Angeles Angels,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-16,Elly De La Cruz,Cincinnati Reds,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-17,Bobby Witt Jr.,Kansas City Royals,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-18,Julio Rodríguez,Seattle Mariners,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-19,Jackson Holliday,Baltimore Orioles,,0,0,0
+2025,Topps,2025 Topps Holiday Baseball,Present Die-Cut Ornaments,PO-20,Tarik Skubal,Detroit Tigers,,0,0,0
